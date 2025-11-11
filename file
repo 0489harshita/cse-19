@@ -1,0 +1,24 @@
+<HTML>
+ <head><title> Registration form</title>
+ </head>
+<body>
+  <form action=" ./response.html" target="_blank" name="registration form" method="get">
+<fieldset>
+  <h2>git-hub registration form</h2>
+<br>
+  <label for="Name">Name:</label>
+  <Input type="Text" id="Name" Placeholder="Enter Name" required>
+<br>
+  <label for="phone no.">phone number:</label>
+  <Input type="number" id="phone number" Placeholder="Enter phone number" required>
+<br>
+  <label for="email">email:</label>
+  <Input type="email" id="email" Placeholder="Enter email" required>
+<br>
+<br>
+  <label for="submit" value="submit form"</label>
+    <input type=""submit">
+</fieldset>
+ </form>
+</body>
+</HTML> 
